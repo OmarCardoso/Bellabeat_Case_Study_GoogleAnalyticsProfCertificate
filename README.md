@@ -4,6 +4,6 @@ Desafio de projeto usado no Google Analytics Professional Certificate<br />
 - fase 1 - Sobre o projeto
 - fase 2 - Preparação dos dados
 - fase 3 - Processo
-- fase 4 - Anáçose
+- fase 4 - Análise
 - fase 5 - Gráficos
-- fase 6 - Conclusão - Ações
+- fase 6 - Conclusão e Ações
